@@ -1,3 +1,4 @@
+![dataclean.jpg](https://github.com/MFCynatGlobal/nationwide_data_cleaning/blob/main/dataclean.jpg)
 # CarOwnersNationwide Data Cleaning Script
 
 ## Overview
